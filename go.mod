@@ -30,7 +30,7 @@ require (
 	github.com/cockroachdb/sentry-go v0.6.1-cockroachdb.2
 	github.com/coreos/go-oidc v2.2.1+incompatible
 	github.com/coreos/go-semver v0.3.0
-	github.com/crewjam/saml v0.4.5
+	github.com/crewjam/saml v0.4.9
 	github.com/davecgh/go-spew v1.1.1
 	github.com/daviddengcn/go-colortext v1.0.0
 	github.com/derision-test/glock v1.0.0
@@ -57,7 +57,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
 	github.com/gomodule/oauth1 v0.0.0-20181215000758-9a59ed3b0a84
 	github.com/gomodule/redigo v2.0.0+incompatible
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.8
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/google/go-github/v28 v28.1.1
 	github.com/google/go-github/v31 v31.0.0
@@ -150,8 +150,8 @@ require (
 	go.uber.org/atomic v1.9.0
 	go.uber.org/automaxprocs v1.4.0
 	go.uber.org/ratelimit v0.2.0
-	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa
-	golang.org/x/net v0.0.0-20211108170745-6635138e15ea
+	golang.org/x/crypto v0.0.0-20220128200615-198e4374d7ed
+	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20211109065445-02f5c0300f6e
@@ -289,7 +289,6 @@ require (
 	github.com/xanzy/ssh-agent v0.3.0 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
-	github.com/zenazn/goji v1.0.1 // indirect
 	go.mongodb.org/mongo-driver v1.7.4 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	golang.org/x/mod v0.5.1 // indirect
