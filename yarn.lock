@@ -23438,6 +23438,18 @@ __metadata:
   languageName: node
   linkType: hard
 
+"object.assign@npm:^4.1.0":
+  version: 4.1.4
+  resolution: "object.assign@npm:4.1.4"
+  dependencies:
+    call-bind: ^1.0.2
+    define-properties: ^1.1.4
+    has-symbols: ^1.0.3
+    object-keys: ^1.1.1
+  checksum: 76cab513a5999acbfe0ff355f15a6a125e71805fcf53de4e9d4e082e1989bdb81d1e329291e1e4e0ae7719f0e4ef80e88fb2d367ae60500d79d25a6224ac8864
+  languageName: node
+  linkType: hard
+
 "object.defaults@npm:^1.0.0, object.defaults@npm:^1.1.0":
   version: 1.1.0
   resolution: "object.defaults@npm:1.1.0"
@@ -32556,11 +32568,12 @@ __metadata:
   linkType: hard
 
 "yargs-parser@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "yargs-parser@npm:5.0.0"
+  version: 5.0.1
+  resolution: "yargs-parser@npm:5.0.1"
   dependencies:
     camelcase: ^3.0.0
-  checksum: 5580caa20c4f012a681269377940d89db37563c24b2abeca08c9e616385eb9d16517fd26f58dd9796a6f12b7bc91e54ec0c46f313eac310ad80fcd12ddb1ec63
+    object.assign: ^4.1.0
+  checksum: 8eff7f3653afc9185cb917ee034d189c1ba4bc0fd5005c9588442e25557e9bf69c7331663a6f9a2bb897cd4c1544ba9675ed3335133e19e660a3086fedc259db
   languageName: node
   linkType: hard
 
