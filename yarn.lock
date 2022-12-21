@@ -17508,9 +17508,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"got@npm:^11.5.2":
-  version: 11.8.5
-  resolution: "got@npm:11.8.5"
+"got@npm:^11.8.6":
+  version: 11.8.6
+  resolution: "got@npm:11.8.6"
   dependencies:
     "@sindresorhus/is": ^4.0.0
     "@szmarczak/http-timer": ^4.0.5
@@ -17523,7 +17523,7 @@ __metadata:
     lowercase-keys: ^2.0.0
     p-cancelable: ^2.0.0
     responselike: ^2.0.0
-  checksum: 2de8a1bbda4e9b6b2b72b2d2100bc055a59adc1740529e631f61feb44a8b9a1f9f8590941ed9da9df0090b6d6d0ed8ffee94cd9ac086ec3409b392b33440f7d2
+  checksum: bbc783578a8d5030c8164ef7f57ce41b5ad7db2ed13371e1944bef157eeca5a7475530e07c0aaa71610d7085474d0d96222c9f4268d41db333a17e39b463f45d
   languageName: node
   linkType: hard
 
@@ -27478,7 +27478,7 @@ __metadata:
     fzf: ^0.5.1
     glob: ^7.1.6
     googleapis: ^47.0.0
-    got: ^11.5.2
+    got: ^11.8.6
     gql2ts: ^1.10.1
     graphiql: ^1.11.5
     graphql: ^15.4.0
