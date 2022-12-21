@@ -22527,7 +22527,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"minimatch@npm:4.2.1":
+"minimatch@npm:4.2.1, minimatch@npm:^4.0.0":
   version: 4.2.1
   resolution: "minimatch@npm:4.2.1"
   dependencies:
@@ -27520,7 +27520,7 @@ __metadata:
     message-port-polyfill: ^0.2.0
     mime-types: ^2.1.28
     mini-css-extract-plugin: ^2.7.2
-    minimatch: ^3.0.4
+    minimatch: ^4.0.0
     mocha: ^8.3.2
     mock-require: ^3.0.3
     mockdate: ^3.0.2
